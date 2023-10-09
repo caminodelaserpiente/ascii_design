@@ -6,7 +6,6 @@ setup(
     version='1.0.0',
     description='Tool for create designs in asii code',
     author='蛇道',
-    author_email='contact.d4niel9@gmail.com',
     url='https:/github.com/caminodelaserpiente/ascii_design',
     packages=['ascii_design']
     install_requires=['Pillow']
